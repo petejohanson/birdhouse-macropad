@@ -2,4 +2,4 @@
 
 **WIP: NOT FULLY ROUTED YET**
 
-[!Birdhouse Macrodpad](./birdhouse-macropad.png)
+![Birdhouse Macrodpad](./birdhouse-macropad.png)

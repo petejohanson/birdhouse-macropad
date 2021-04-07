@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name birdhouse)(type KiCad)(uri ${KIPRJMOD}/birdhouse.pretty)(options "")(descr ""))
+  (lib (name MSK-12C02)(type Eagle)(uri ${KIPRJMOD}/birdhouse.pretty/MSK-12C02.lbr)(options "")(descr ""))
+)
